@@ -7,7 +7,11 @@ Tic Tac Toe на Unity — ставь крестики и нолики, обыг
 <img width="30%"  alt="2026-05-14_20-30-28" src="https://github.com/user-attachments/assets/30cad856-3b05-4501-8d9a-e3179b657b78" />
 
 
-https://github.com/user-attachments/assets/9fb7948a-8230-411f-ba8f-179598d07afd
+
+
+https://github.com/user-attachments/assets/4cb1a2fa-804c-412f-a072-807038f4ebec
+
+
 
 О проекте
 Жанр: Puzzle / Logic / Board Game
